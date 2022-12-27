@@ -4,9 +4,8 @@ ARFoundation ImageTracking
 ![image](https://user-images.githubusercontent.com/26645827/209616237-138ee880-2014-4963-8213-d76b4bd37b84.png)
 
 -Variable
-<br>Dummy : 
+<br>Dummy : 마커를 놓쳤을때 오브젝트가 위치할 곳
 <br>![image](https://user-images.githubusercontent.com/26645827/209616265-c2aaeea3-e89e-4897-910f-bdcd41854de7.png)
-<br>마커를 놓쳤을때 오브젝트가 위치할 곳
 
 Contents : 
 트래킹된 마커 위에 띄울 오브젝트 Contents 오브젝트에 Visualizer.cs 추가
