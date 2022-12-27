@@ -14,3 +14,4 @@ Scanning Effect : Objects to float on the image for a period of time when the im
 
 <hr />
 <br>When tracked for the first time, the ScanTimer increases, and after a certain period of time, objects in the index's Contents, such as Dummy, appear on the tracked image. If the marker is missed after tracking is completed, the object is moved to the location of Dummy and appears fixed.
+it base on ARFoundation you can use it for AOS, IOS
