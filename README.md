@@ -1,4 +1,4 @@
-ARFoundation ImageTracking
+ARFoundation ImageTracking it made at UNITY version 19.4.0f1
 
 ![image](https://user-images.githubusercontent.com/26645827/209616237-138ee880-2014-4963-8213-d76b4bd37b84.png)
 
@@ -11,3 +11,5 @@ Contents : Add Visualizer.cs to the object Contents object to float above the tr
 
 Scanning Effect : Objects to float on the image for a period of time when the image reflected on the camera is a registered image in the "ReferenceImageLibrary"
 <br>Marker Title : Image to be floated in UI when image is not being tracked (disappears when tracking starts)
+
+
