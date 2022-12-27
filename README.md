@@ -12,5 +12,5 @@ Contents : Add Visualizer.cs to the object Contents object to float above the tr
 Scanning Effect : Objects to float on the image for a period of time when the image reflected on the camera is a registered image in the "ReferenceImageLibrary"
 <br>Marker Title : Image to be floated in UI when image is not being tracked (disappears when tracking starts)
 
-
+<hr />
 When tracked for the first time, the ScanTimer increases, and after a certain period of time, objects in the index's Contents, such as Dummy, appear on the tracked image. If the marker is missed after tracking is completed, the object is moved to the location of Dummy and appears fixed.
