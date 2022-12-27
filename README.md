@@ -6,7 +6,7 @@ ARFoundation ImageTracking
 -Variable
 <br>Dummy : 
 <br>![image](https://user-images.githubusercontent.com/26645827/209616265-c2aaeea3-e89e-4897-910f-bdcd41854de7.png)
-마커를 놓쳤을때 오브젝트가 위치할 곳
+<br>마커를 놓쳤을때 오브젝트가 위치할 곳
 
 Contents : 
 트래킹된 마커 위에 띄울 오브젝트
